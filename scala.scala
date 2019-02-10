@@ -6,4 +6,5 @@ object HelloWorld extends App {
   println("three")
   println("commit through ide")
   println("checking git pull in feature branch through IDE")
+  println(ascadf)
 }
