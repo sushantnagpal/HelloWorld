@@ -4,4 +4,5 @@ object HelloWorld extends App {
   println("two")
   println("twoPointOneSecondAdd")
   println("three")
+  println("commit through ide")
 }
